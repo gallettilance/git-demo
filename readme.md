@@ -8,6 +8,10 @@ this is an intro
 
 this is the first section
 
+## Section 2
+
+this is the second section
+
 ## Conclustion
 
 this is a conclusion
